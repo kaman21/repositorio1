@@ -1,1 +1,2 @@
 Calculadora x^2
+Calculadora x/2
